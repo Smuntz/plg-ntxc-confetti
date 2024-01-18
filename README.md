@@ -2,7 +2,7 @@
 
 | Javascript Element Name | Version | Date       | Evaluation Link |
 | ----------------------- | --------| ---------- | ----------------|
-| confetti-form           | 1.0     | 2024-01-11 | N/A             |
+| confetti-form           | 2.1     | 2024-01-118| N/A             |
 
 ## Sparkle your Form
 
